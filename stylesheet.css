@@ -8,3 +8,11 @@ ul {
 li {
     float: left;
 }
+li a {
+    display: block;
+    color: #00a844;
+    font-size: 11px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
