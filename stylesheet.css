@@ -1,6 +1,6 @@
 p {    
     color: #FF00FF;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-family: Futura;
     font-size: 14px;
 }
 
@@ -18,7 +18,7 @@ li {
 li a {
     display: block;
     color: #FF00FF;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-family: Futura;
     font-size: 14px;
     text-align: center;
     padding: 14px 16px;
