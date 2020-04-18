@@ -1,3 +1,9 @@
+p {    
+    color: #FF00FF;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-size: 14px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
