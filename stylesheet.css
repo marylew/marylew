@@ -32,7 +32,7 @@ a{
 
 table {
     padding-left: 5%;
-    font-family: Futura;
+    font-family: "Futura";
     font-size: 18px;
     
 
@@ -53,6 +53,8 @@ h4{
 h5{
     font-family: Futura;
 }
+
+.active{color:white;}
 
 
 
